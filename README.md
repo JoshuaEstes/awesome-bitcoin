@@ -13,7 +13,12 @@ List of Bitcoin related products and services for Bitcoin.
 Various exchanges where you can trade bitcoin for other crypto currencies or
 for fiat currencies.
 
+* [ANX](https://anxbtc.com/)
+* [Bitfinex](https://www.bitfinex.com/)
+* [Bitstamp](https://www.bitstamp.net/)
+* [BTC-e](https://btc-e.com/)
 * [CampBX](https://campbx.com/)
+* [Kraken](https://www.kraken.com/)
 
 # Mining
 Hardware and software that are used for mining.

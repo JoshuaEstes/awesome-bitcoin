@@ -15,3 +15,4 @@ Pull Requests that WILL NOT BE MERGED:
 
 * Any shady product or service
 * Newly launched product or service
+* Affiliate Links
