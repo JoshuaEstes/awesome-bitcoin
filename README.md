@@ -5,8 +5,10 @@ List of Bitcoin related products and services for Bitcoin.
 
 - [Exchanges](#exchanges)
 - [Mining](#mining)
+- [Mining Pools](#mining-pools)
+- [Mining Pool Software](#mining-pool-software)
+- [News](#news)
 - [Payment Processors](#payment-processors)
-- [Pools](#pools)
 - [Wallets](#wallets)
 
 # Exchanges
@@ -26,15 +28,27 @@ Hardware and software that are used for mining.
 * [BFGMiner](https://github.com/luke-jr/bfgminer)
 * [CGminer](https://github.com/ckolivas/cgminer)
 
+# Mining Pool Software
+Software used to run your own pool
+* [eloipool](https://gitorious.org/bitcoin/eloipool)
+
+# Mining Pools
+Join a pool
+* [Slush's pool](https://mining.bitcoin.cz/)
+
+# News
+News outlets for Bitcoin related products and services.
+
 # Payment Processors
 Stuff that helps you process payments using bitcoins.
 
-# Pools
-Mining pools
-
-* [eloipool](https://gitorious.org/bitcoin/eloipool)
+* [BitPay](https://bitpay.com)
 
 # Wallets
 Wallet software.
 
+* [Armory](https://bitcoinarmory.com/)
+* [Bitcoin QT](https://bitcoin.org/en/download)
 * [bitcoind](https://github.com/bitcoin/bitcoin/)
+* [Electrum](https://electrum.org/)
+* [Multibit](https://multibit.org/)
