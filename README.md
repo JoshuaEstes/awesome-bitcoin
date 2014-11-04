@@ -58,6 +58,8 @@ Join a pool
 # News
 News outlets for Bitcoin related products and services.
 
+* [CoinDesk](http://www.coindesk.com/)
+
 # Payment Processors
 Stuff that helps you process payments using bitcoins.
 * [BitPay](https://bitpay.com)
